@@ -41,7 +41,7 @@ function App() {
       
       <div>
       
-      <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Half_alive_conditions_of_a_punk.png" alt="Conditions of a Punk album cover" />
+      <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Half_Alive_Now%2C_Not_Yet.jpg" alt="Conditions of a Punk album cover" />
       </div>
     
       <details>

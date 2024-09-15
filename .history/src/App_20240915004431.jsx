@@ -40,8 +40,7 @@ function App() {
       <div className="discography">
       
       <div>
-      
-      <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Half_alive_conditions_of_a_punk.png" alt="Conditions of a Punk album cover" />
+      <img src={'/public/halfalive_conditionsofapunk.png'} alt="Conditions of a Punk album cover" />
       </div>
     
       <details>

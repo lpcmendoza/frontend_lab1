@@ -14,7 +14,7 @@ function App() {
     <div className="discography">
       
       <div>
-      <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Half_Alive_Now%2C_Not_Yet.jpg" alt="Now, Not Yet album cover" />
+      <img href={'https://upload.wikimedia.org/wikipedia/en/0/00/Half_Alive_Now%2C_Not_Yet.jpg'} alt="Now, Not Yet album cover" />
       </div>
     
       <details>
@@ -40,8 +40,7 @@ function App() {
       <div className="discography">
       
       <div>
-      
-      <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Half_alive_conditions_of_a_punk.png" alt="Conditions of a Punk album cover" />
+      <img src={'/public/halfalive_conditionsofapunk.png'} alt="Conditions of a Punk album cover" />
       </div>
     
       <details>
