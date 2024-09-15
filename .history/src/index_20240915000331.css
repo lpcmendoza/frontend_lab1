@@ -82,3 +82,7 @@ button:focus-visible {
   font-size: 14px;
   text-align: left;
 }
+
+h2 {
+  text-align: left;
+}

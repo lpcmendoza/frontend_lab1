@@ -71,14 +71,14 @@ button:focus-visible {
  display: flex;
  flex-direction: row;
  gap: 20px;
- margin: 20px;
 }
 
-.albumname {
-  font-size: 20px;
+.album-name {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
 }
 
-.songs {
-  font-size: 14px;
-  text-align: left;
+details summary::-webkit-details-marker {
+  display:none;
 }

@@ -71,7 +71,6 @@ button:focus-visible {
  display: flex;
  flex-direction: row;
  gap: 20px;
- margin: 20px;
 }
 
 .albumname {
@@ -79,6 +78,6 @@ button:focus-visible {
 }
 
 .songs {
-  font-size: 14px;
+  font-size: 16px;
   text-align: left;
 }

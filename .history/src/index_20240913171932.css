@@ -66,19 +66,3 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-
-.discography {
- display: flex;
- flex-direction: row;
- gap: 20px;
- margin: 20px;
-}
-
-.albumname {
-  font-size: 20px;
-}
-
-.songs {
-  font-size: 14px;
-  text-align: left;
-}
